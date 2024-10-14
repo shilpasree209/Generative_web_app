@@ -1,0 +1,12 @@
+.main-container {
+  background: beige;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+h1 {
+  color: red;
+}
