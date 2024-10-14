@@ -30,12 +30,8 @@ function App() {
             <option value='medium'>Medium</option>
             <option value='hard'>Hard</option>
           </select>
-          {/* <input type='text' 
-                className='query-input' 
-                placeholder='Enter Query'>
-                
-          </input> */}
         </div>
+        <button className='submit-button'>Generate Questions</button>
 
       </div>
     </div>
